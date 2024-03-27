@@ -1,5 +1,5 @@
 ﻿module;
-//Module fragement
+//Module fragment
 //Put all your includes here!
 #include <Windows.h>
 module Inject;
